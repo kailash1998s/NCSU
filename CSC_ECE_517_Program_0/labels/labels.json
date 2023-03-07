@@ -1,0 +1,92 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "description": "Something isn't working",
+        "id": 1602760,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwxNjAyNzYw",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/CSC_ECE_517_Program_0/labels/bug"
+    },
+    {
+        "color": "0075ca",
+        "default": true,
+        "description": "Improvements or additions to documentation",
+        "id": 1602761,
+        "name": "documentation",
+        "node_id": "MDU6TGFiZWwxNjAyNzYx",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/CSC_ECE_517_Program_0/labels/documentation"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "description": "This issue or pull request already exists",
+        "id": 1602762,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwxNjAyNzYy",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/CSC_ECE_517_Program_0/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "description": "New feature or request",
+        "id": 1602763,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwxNjAyNzYz",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/CSC_ECE_517_Program_0/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "description": "Good for newcomers",
+        "id": 1602765,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwxNjAyNzY1",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/CSC_ECE_517_Program_0/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "description": "Extra attention is needed",
+        "id": 1602764,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwxNjAyNzY0",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/CSC_ECE_517_Program_0/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "description": "This doesn't seem right",
+        "id": 1602766,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwxNjAyNzY2",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/CSC_ECE_517_Program_0/labels/invalid"
+    },
+    {
+        "color": "e99695",
+        "default": false,
+        "description": "",
+        "id": 1602769,
+        "name": "Program_0 Todo",
+        "node_id": "MDU6TGFiZWwxNjAyNzY5",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/CSC_ECE_517_Program_0/labels/Program_0%20Todo"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "description": "Further information is requested",
+        "id": 1602767,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwxNjAyNzY3",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/CSC_ECE_517_Program_0/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "description": "This will not be worked on",
+        "id": 1602768,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwxNjAyNzY4",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/CSC_ECE_517_Program_0/labels/wontfix"
+    }
+]

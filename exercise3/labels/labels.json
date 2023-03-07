@@ -1,0 +1,83 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "description": "Something isn't working",
+        "id": 1619978,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwxNjE5OTc4",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/exercise3/labels/bug"
+    },
+    {
+        "color": "0075ca",
+        "default": true,
+        "description": "Improvements or additions to documentation",
+        "id": 1619979,
+        "name": "documentation",
+        "node_id": "MDU6TGFiZWwxNjE5OTc5",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/exercise3/labels/documentation"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "description": "This issue or pull request already exists",
+        "id": 1619980,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwxNjE5OTgw",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/exercise3/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "description": "New feature or request",
+        "id": 1619981,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwxNjE5OTgx",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/exercise3/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "description": "Good for newcomers",
+        "id": 1619983,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwxNjE5OTgz",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/exercise3/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "description": "Extra attention is needed",
+        "id": 1619982,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwxNjE5OTgy",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/exercise3/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "description": "This doesn't seem right",
+        "id": 1619984,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwxNjE5OTg0",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/exercise3/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "description": "Further information is requested",
+        "id": 1619985,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwxNjE5OTg1",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/exercise3/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "description": "This will not be worked on",
+        "id": 1619986,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwxNjE5OTg2",
+        "url": "https://github.ncsu.edu/api/v3/repos/ksingar2/exercise3/labels/wontfix"
+    }
+]
